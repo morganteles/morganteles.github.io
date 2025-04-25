@@ -8,7 +8,7 @@
     body {
       margin: 0;
       font-family: 'Arial', sans-serif;
-      background: url('https://images.unsplash.com/photo-1573497019410-2078e30b62a1?auto=format&fit=crop&w=1280&q=80') no-repeat center center fixed;
+      background: url('https://ucarecdn.com/7e53a602-7dc4-4f24-87d9-2d8aad5afdd6/-/quality/lighter/-/resize/700x/') no-repeat center center fixed;
       background-size: cover;
       color: white;
       text-align: center;
