@@ -54,7 +54,7 @@
 </head>
 <body>
   <div class="container">
-    <img src="https://i.imgur.com/fxXrJzi.png" alt="Sua Foto" class="foto" />
+    <img src="https://ibb.co/C50PygXj" alt="Sua Foto" class="foto" />
     <h1>Morgan Teles</h1>
     <p>Bem-vindo ao meu cartão digital!</p>
     <a href="https://www.threads.com/@morganteles?igshid=NTc4MTIwNjQ2YQ==" target="_blank">Meu Threads</a>
