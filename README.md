@@ -54,10 +54,10 @@
 </head>
 <body>
   <div class="container">
-    <img src="https://i.imgur.com/fxXrJzi.png" alt="Sua Foto" class="foto" />
+    <img src="https://ucarecdn.com/7e53a602-7dc4-4f24-87d9-2d8aad5afdd6/-/quality/lighter/-/resize/700x/" alt="Sua Foto" class="foto" />
     <h1>Morgan Teles</h1>
     <p>Bem-vindo ao meu cartão digital!</p>
-    <a href="https://www.threads.com/@morganteles?igshid=NTc4MTIwNjQ2YQ==" target="_blank">Meu Threads</a>
+    <a href="https://www.threads.com/@morganteles?igshid=NTc4MTIwNjQ2YQ==" target="_blank">Meu Instagram</a>
     <a href="tel:+5562993900889">Ligar para mim</a>
     <a href="https://wa.me/5562993900889" target="_blank">Fale no WhatsApp</a>
   </div>
